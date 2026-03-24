@@ -5,3 +5,5 @@ This is a PHP + MySQl CRUD application with Bootstrap UI
 - Add User
 - View User
 - Delete User
+- Sort User by Age
+- Pagination
